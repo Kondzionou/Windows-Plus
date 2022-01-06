@@ -1,9 +1,9 @@
 # Windows 11+
 
-Author: 
-Naoku aka. Kondzio
-Youtube: I will and it I promise xD
-Discord: Naoku#1036
+###### Author: 
+###### Naoku aka. Kondzio
+###### Youtube: I will and it I promise xD
+###### Discord: Naoku#1036
 
 About:
 Windows 11+ is a program that optimizes Windows 11 and 10 probably too because reg files and cmd commands have not changed at all. 
