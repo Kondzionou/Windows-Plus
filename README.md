@@ -11,10 +11,10 @@ Windows 11+ is a program that optimizes Windows 11 and 10 probably too because r
 How to Use:
 Before making any changes settings etc. Disable UAC!
 How To Disable UAC:
--Run as ADMIN
--Go to first option "Disable UAC RESTART PC!"
--Go to first option again and the program should exit 
--restart your pc
+>-Run as ADMIN
+>-Go to first option "Disable UAC RESTART PC!"
+>-Go to first option again and the program should exit 
+>-restart your pc
 U ARE DONE!
 
 Now if you want look does changes applyed
