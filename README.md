@@ -24,8 +24,7 @@ How To Disable UAC:
 U ARE DONE!
 
 Now if you want look does changes applyed go to
-
-**regedit.exe** paste **HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System** and if **EnableLUA** is on **1** something went wrong and change it at your own. If **EnableLUA** is on 0 then you can go to next steps!
+>**regedit.exe** paste **HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System** and if **EnableLUA** is on **1** something went wrong and change it at your own. If **EnableLUA** is on 0 then you can go to next steps!
 
 2. Delete Temporary/Log Files 
 >Just as name say it delete all usless files from your pc
