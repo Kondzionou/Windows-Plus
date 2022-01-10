@@ -1,4 +1,4 @@
-# Windows 11+
+# Windows +
 
 ###### Author: 
 ###### Naoku aka. Kondzio
